@@ -21,7 +21,7 @@ throughout my university career ✨.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" color="white" alt="Github" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="Vim" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
@@ -35,4 +35,4 @@ throughout my university career ✨.
 <!-- # -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuSonwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--  -->
-<!-- ![snake gif](https://github.com/DivyanshuSonwal/DivyanshuSonwal/blob/output/github-contribution-grid-snake.gif) -->
+<!-- ![snake gif](https://github.com/DivyanshuSonwal/DivyanshuSonwal/blob/output/github-contribution-grid-snake.svg) -->
